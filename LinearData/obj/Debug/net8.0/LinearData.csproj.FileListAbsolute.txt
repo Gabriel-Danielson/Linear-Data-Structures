@@ -1,0 +1,15 @@
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\bin\Debug\net8.0\LinearData.exe
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\bin\Debug\net8.0\LinearData.deps.json
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\bin\Debug\net8.0\LinearData.runtimeconfig.json
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\bin\Debug\net8.0\LinearData.dll
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\bin\Debug\net8.0\LinearData.pdb
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\obj\Debug\net8.0\LinearData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\obj\Debug\net8.0\LinearData.AssemblyInfoInputs.cache
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\obj\Debug\net8.0\LinearData.AssemblyInfo.cs
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\obj\Debug\net8.0\LinearData.csproj.CoreCompileInputs.cache
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\obj\Debug\net8.0\LinearData.sourcelink.json
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\obj\Debug\net8.0\LinearData.dll
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\obj\Debug\net8.0\refint\LinearData.dll
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\obj\Debug\net8.0\LinearData.pdb
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\obj\Debug\net8.0\LinearData.genruntimeconfig.cache
+C:\Users\Tim\OneDrive - West Shore Community College\Programming II\LinearData\LinearData\obj\Debug\net8.0\ref\LinearData.dll
